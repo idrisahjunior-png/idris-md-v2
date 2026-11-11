@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/idrisahjunior-png/idris-md-v2/">
-    <img alt="Suhail docs" height="300" src="https://telegra.ph/file/54efddccf41281ad7ec51.jpg">
+    <img alt="Suhail docs" height="300" src="IMG_0926.jpeg">
   </a>
 </p>
     
@@ -13,7 +13,7 @@
   <a href="https://wa.me/+254728782591?text=Hi+Bro--+I+Need+Help.+I+messaged+you+from+ɢɪғᴛᴇᴅ ʙᴏᴛ+Repo" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
  
-  <a aria-label="ɢɪғᴛᴇᴅ ʙᴏᴛ is free to use" href="https://github.com/Giftedmaurice/gifted-bot-md" target="_blank">
+  <a aria-label="IDRIS ʙᴏᴛ is free to use" href="https://github.com/Giftedmaurice/gifted-bot-md" target="_blank">
     <img alt="ɪᴅʀɪs ᴛᴇᴄʜ" src="https://img.shields.io/youtube/channel/subscribers/UCU071AMRqcd5mfTdCgJFwPg" target="_blank" />
   </a>
 
