@@ -1,4 +1,4 @@
- <h1 align="center"> ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ🔥 </h1> 
+ <h1 align="center"> ɪᴅʀɪs ᴍᴅ🔥 </h1> 
 <p align="center"> Introducing ɢɪғᴛᴇᴅ ʙᴏᴛ, It is designed to bring a whole new level of excitement to your boring WhatsApp use. </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
   </a>
 
 </p>
-<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt="ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{SuhailTechInfo}/count.svg" alt=" ɪᴅʀɪs ᴍᴅ:: Visitor's Count" /></p>
 
 ---
 
