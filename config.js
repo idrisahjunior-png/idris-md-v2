@@ -7,8 +7,8 @@ global.audio= "" ;
 global.video= "" ;
 global.port =process.env.PORT
 global.appUrl=process.env.APP_URL || ""                       // put your app url here,
-global.email ="admin@giftedtechnexus.co.ke"
-global.location="Eldoret,Kenya."
+global.email ="idrisahjunior@gmail.com"
+global.location="Arusha,Tanzania."
 global.mongodb= process.env.MONGODB_URI || ""
 global.allowJids= process.env.ALLOW_JID || "null" 
 global.blockJids= process.env.BLOCK_JID || "120363023983262391@g.us"
@@ -22,9 +22,9 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://te
 
 
 
-global.devs = "254728782591" // Developer Contact
+global.devs = "255747977495" // Developer Contact
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "admin";
-global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "254728782591";
+global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "255747977495";
 
 
 
@@ -52,7 +52,7 @@ global.readmessagefrom = process.env.READ_MESSAGE_FROM || "null,923xxxxxxxx";
 global.read_status = process.env.AUTO_READ_STATUS || "true"
 global.save_status = process.env.AUTO_SAVE_STATUS || "false"
 global.save_status_from =  process.env.SAVE_STATUS_FROM  || "null,923xxxxxxxx";
-global.read_status_from =  process.env.READ_STATUS_FROM  ||  "254728782591,923xxxxxxxx";
+global.read_status_from =  process.env.READ_STATUS_FROM  ||  "255747977495,923xxxxxxxx";
 
 global.api_smd = "https://api-smd-1.vercel.app"
 global.scan = "https://qr-scan.giftedtechnexus.co.ke/";
@@ -64,12 +64,12 @@ module.exports = {
   HANDLERS: process.env.PREFIX  || ".",
   BRANCH  : process.env.BRANCH  || "main",
   VERSION : process.env.VERSION || "V.1.2.8",
-  caption : process.env.CAPTION || "©²⁰²⁴ ɢɪғᴛᴇᴅ ʙᴏᴛ ᴍᴅ" , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɢɪғᴛᴇᴅ ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ • ɢɪғᴛᴇᴅ ᴛᴇᴄʜ』*\n https://whatsapp.com/channel/0029VaJmfmTDJ6H7CmuBss0o"),
+  caption : process.env.CAPTION || "©²⁰²⁴ ɪᴅʀɪs ᴍᴅ " , // ```『 ᴘᴏᴡᴇʀᴇᴅ ʙʏ ɪᴅʀɪs ᴛᴇᴄʜ 』```", //*『sᴜʙsᴄʀɪʙᴇ •ɪᴅʀɪs ᴛᴇᴄʜ 』*\n "),
  
-  author : process.env.PACK_AUTHER|| "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+  author : process.env.PACK_AUTHER|| "ɪᴅʀɪs ᴍᴅ",
   packname: process.env.PACK_NAME || "♥️",
-  botname : process.env.BOT_NAME  || "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
-  ownername:process.env.OWNER_NAME|| "It's GiftedTech",
+  botname : process.env.BOT_NAME  || "ɪᴅʀɪs ᴍᴅ ",
+  ownername:process.env.OWNER_NAME|| "It's Idris",
 
   sessionName:process.env.SESSION_ID || "",  // PUT SESSION ID HERE 
   errorChat : process.env.ERROR_CHAT || "",
@@ -85,7 +85,7 @@ module.exports = {
   aitts_Voice_Id : process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE||process.env.MODE || "private",
-  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "GIFTED",
+  LANG: process.env.THEME ? process.env.THEME.toUpperCase() : "IDRIS",
 
 
 
