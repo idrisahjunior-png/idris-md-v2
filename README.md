@@ -93,7 +93,7 @@
 
 
 - Star ⭐ repo if you like this bot.
-- If any problem, then [`+254762016957`](https://wa.me/255747977495)
+- If any problem, then [`+255747977495`](https://wa.me/255747977495)
 
 
 ### Thanks To
